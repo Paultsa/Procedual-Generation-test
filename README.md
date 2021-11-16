@@ -1,2 +1,2 @@
 # Procedual Generation test
- learning procedual generation
+ learning procedual terrain generation with noise
